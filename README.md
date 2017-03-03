@@ -2,4 +2,4 @@
 _Este es mi repositorio sobre el humilde estudio diario que estoy realizando acerca de las singularidades._ ^^
 ![alt text][logo]
 
-[logo]: https://en.wikipedia.org/wiki/Riemann_sphere#/media/File:RiemannSphere.png "extended complex plane"
+[logo]: https://commons.wikimedia.org/wiki/File%3ARiemannSphere.png "extended complex plane"
