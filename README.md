@@ -4,6 +4,6 @@ _Este es mi repositorio sobre el humilde estudio diario que estoy realizando ace
 ##Plan de trabajo##
 | Semanas                      |Temas                    | Avance en porcentaje|
 | :--------------------------: |:-----------------------:| :------------------:|
-| 27 de febrero to 5 de marzo  | Definiciones elementales| 40%                 |
+| 27 de febrero to 5 de marzo  | Definiciones elementales| 70%                 |
 | 6 de marzo to 12 de marzo    |Falta información        | 0%                  |
 | 13 de marzo to 19 de marzo   |Falta información        | 0%                  |
