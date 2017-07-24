@@ -10,5 +10,5 @@ _Este es mi repositorio sobre el humilde estudio diario que estoy realizando ace
 |20 de marzo to 26 de marzo    |Break I                              |100%                |
 |27 de marzo to 2 de abril     |Break II                             |100%                |  
 |3 de abril to 9 de abril      |Break III                            |100%                |
-|         ...                  |              ...                    |        ...         |
+|...                           |...                                  |...                 |
 |23 de julio to 29 de julio    |Definiciones elementales III         |10%                 |
