@@ -11,4 +11,6 @@ _Este es mi repositorio sobre el humilde estudio diario en vacaciones que estoy 
 | 27 de marzo to 2 de abril    |Break II                             |100%                |  
 | 3 de abril to 9 de abril     |Break III                            |100%                |
 | ...                          |...                                  |...                 |
-| 23 de julio to 29 de julio   |Definiciones elementales III         |10%                 |
+| 23 de julio to 29 de julio   |Definiciones elementales III         |20%                 |
+| 30 de julio to 5 de agosto   |Definiciones elementales III         |0%                  |
+| 6 de agosto to 12 de agosto  |Definiciones elementales III         |0%                  |
